@@ -1,6 +1,6 @@
 /** @format */
 
-const pagination = require("@functions/pagination.js");
+const pagination = require("@utils/pagination.js");
 
 module.exports = {
   name: "list",
